@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:glowstone": 3,
+      "minecraft:air": 0,
+      "minecraft:bow": 1,
+      "minecraft:emerald": 12
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 3,
+      "minecraft:sand": 1,
+      "minecraft:torch": 3
+    },
+    "minecraft:custom": {
+      "minecraft:traded_with_villager": 16,
+      "minecraft:talked_to_villager": 8,
+      "minecraft:time_since_rest": 6732,
+      "minecraft:walk_one_cm": 5164,
+      "minecraft:leave_game": 3,
+      "minecraft:play_time": 18015,
+      "minecraft:jump": 22,
+      "minecraft:time_since_death": 18015,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 2934,
+      "minecraft:open_chest": 2,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 1056,
+      "minecraft:total_world_time": 18015,
+      "minecraft:fly_one_cm": 6499,
+      "minecraft:crouch_one_cm": 288,
+      "minecraft:sneak_time": 38
+    },
+    "minecraft:mined": {
+      "minecraft:torch": 3,
+      "minecraft:sand": 1,
+      "minecraft:grass_block": 3
+    },
+    "minecraft:dropped": {
+      "minecraft:bow": 1
+    },
+    "minecraft:used": {
+      "minecraft:sand": 1,
+      "minecraft:glowstone": 3,
+      "minecraft:bread": 1
+    }
+  },
+  "DataVersion": 4671
+}
